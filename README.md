@@ -9,7 +9,7 @@ And in the server.php this is where you could configure your database informatio
 
 Dev by Purple#0410
 
-French version :
+Version Française :
 Ce formulaire de login et de register va vous servir à ajouter un sytème d'inscription et de connexion à votre site. 
 Dans le fichier login.php vous trouverez la page web de la connexion.
 Dans le fichier register.php vous trouverez la page web de l'inscription.
